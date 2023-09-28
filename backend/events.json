@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Test","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.photowall.pl%2Fcloud-sky-obrazy-na-plotnie&psig=AOvVaw3kVquZrgOXvb13PZ1RCByo&ust=1696018147316000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjBouKNzoEDFQAAAAAdAAAAABAE","date":"2023-09-16","description":"tet","id":"5af4d34c-f34b-4769-aa68-a664ebe17d65"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
